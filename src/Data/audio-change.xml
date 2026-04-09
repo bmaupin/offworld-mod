@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Root>
+    <Entry>
+        <zType>AUDIO_MAIN_MENU_LOOP_MUSIC</zType>
+        <zAsset>Ozymandias OST - Menu.ogg</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_MAIN_MENU_INTRO_MUSIC</zType>
+        <zAsset>01 The Seeding.mp3</zAsset>
+        <zClassicAsset />
+    </Entry>
+</Root>
