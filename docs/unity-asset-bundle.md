@@ -1,4 +1,6 @@
-# Create a Unity asset bundle
+# Unity asset bundles
+
+## Create a Unity asset bundle
 
 ⓘ Offworld can only read assets (e.g. music files) stored in a Unity asset bundle, which must be created using the Unity Editor. The version must exactly match the version of Unity used by the game.
 
@@ -41,13 +43,17 @@
 
    1. This will show all of the assets in the main Project pain. Select them all (Ctrl+A or drag a box around them)
 
+   1. Make sure _Load in Background_ is unchecked
+
+   1. Make sure _Preload Audio Data_ is checked
+
    1. In the Inspector pane on the bottom right if you only see _N Audio Clips_, drag from the top of that box until you see _AssetBundle_
 
    1. Click the first dropdown near AssetBundle, then click the down arrow > _New_
 
    1. Type a name, e.g. `modassets`
 
-1. Build the asset bundle
+1. Build the asset bundle ([source](https://docs.unity3d.com/2022.3/Documentation/Manual/AssetBundles-Workflow.html))
    1. Create a folder in Assets named `Editor`
 
    1. Right-click in the Editor folder > _Create_ > _C# Script_
@@ -79,3 +85,19 @@
       ```
 
    1. This will add a new item to the game menu; right-click Assets > _Build AssetBundles_
+
+## Reference assets in an asset bundle
+
+- Case does not matter; paths and filenames are always lower-cased in the bundle and in the game code that loads the bundle
+- Leave out the extension
+- Replace `assets` in the asset path with the name of the asset file
+  - e.g. if the asset is `assets/asset.mp3` use `assetbundlefile/asset`
+- ⚠️ It's not recommended to put assets in a folder inside the bundle
+  - If you put assets in a folder inside the bundle, they need to be referenced like this:
+
+    ```xml
+    <zAsset>modassets\folder/asset</zAsset>
+    ```
+
+    - Note the backslash; this is because `AssetBundleManager` in the game uses `Path.GetDirectoryName` to parse the asset Component value (e.g. `assets/folder/asset.mp3`) which converts the slash to a backslash
+    - 👉 It's not clear whether this would be cross-platform; the Mac build may not have the same behaviour since it's likely that `Path.GetDirectoryName` wouldn't convert a slash to a backslash
