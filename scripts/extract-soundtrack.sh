@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# ⚠️⚠️⚠️ This file was written entirely by AI
+# ⚠️⚠️⚠️🤖🤖🤖 This file was written entirely by AI 🤖🤖🤖⚠️⚠️⚠️
 
 set -euo pipefail
 
@@ -9,7 +9,7 @@ set -euo pipefail
 #   ./scripts/extract-soundtrack.sh [offworld_data_dir] [output_dir]
 
 OFFWORLD_DATA_DIR="${1:-$HOME/.local/share/Steam/steamapps/common/Offworld Trading Company/Offworld_Data}"
-OUTPUT_DIR="${2:-$PWD/tmp/extracted-soundtrack}"
+OUTPUT_DIR="${2:-/tmp/extracted-soundtrack}"
 ASSET_FILE="${OFFWORLD_DATA_DIR}/resources.assets"
 VENV_DIR="/tmp/offworld-unitypy-venv"
 
