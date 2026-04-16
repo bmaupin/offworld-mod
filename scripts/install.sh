@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+build_type=development
 source "$(dirname "$(which "$0")")/build.sh"
 
 mod_name="Beyond Earth Soundtrack"
