@@ -47,20 +47,22 @@
 
    1. Make sure _Preload Audio Data_ is checked
 
+   1. Click _Apply_ if there are changes
+
    1. In the Inspector pane on the bottom right if you only see _N Audio Clips_, drag from the top of that box until you see _AssetBundle_
 
    1. Click the first dropdown near AssetBundle, then click the down arrow > _New_
 
    1. Type a name, e.g. `modassets`
 
-1. Build the asset bundle ([source](https://docs.unity3d.com/2022.3/Documentation/Manual/AssetBundles-Workflow.html))
+1. Build the asset bundle
    1. Create a folder in Assets named `Editor`
 
    1. Right-click in the Editor folder > _Create_ > _C# Script_
 
    1. (Optional) Rename the script, e.g. `BuildAssetBundles.cs`
 
-   1. Double-click the script and paste these contents
+   1. Double-click the script and paste these contents ([source](https://docs.unity3d.com/2022.3/Documentation/Manual/AssetBundles-Workflow.html))
 
       ```c#
       using UnityEditor;

@@ -52,11 +52,18 @@ https://www.youtube.com/watch?v=tJLLzFsMQ6Q
    </Entry>
    ```
 
+## Assets
+
+Assets must be in a Unity asset bundle. This can be created using Unity tools.
+
+1. Get the exact Unity version from the game log
+   - Currently `Unity Version: 2022.3.39f1` (https://unity.com/releases/editor/whats-new/2022.3.39f1)
+
 ## Game source
 
 - The source game audio file is at ~/.local/share/Steam/steamapps/compatdata/271240/pfx/drive_c/users/steamuser/Documents/My Games/Offworld/Mods/Hidden/Reference/Data/audio.xml
   - This gets extracted when the game gets first run
-- To replace entries in audio.xml
+- The assets seem to be in ~/.local/share/Steam/steamapps/common/Offworld Trading Company/Offworld_Data/resources.assets
 
 ## Continuous Innovation
 
@@ -64,3 +71,7 @@ The [Continuous Innovation](https://steamcommunity.com/sharedfiles/filedetails/?
 
 - Audio is inside Assets/modassets
   - This seems to be some kind of "UnityFS" binary file
+
+## Troubleshooting
+
+See logs in Documents/My Games/Offworld/Logs

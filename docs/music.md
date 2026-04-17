@@ -18,9 +18,8 @@
   - 12: Victory
   - 14: Loss
 - The remaining odd tracks are played in a loop after the even tracks until the next event triggers another even track
-  - 1:
 
-## Track listing
+#### Track listing
 
 - A01: First part of Welcome to Mars
 - A02: Welcome to Mars
