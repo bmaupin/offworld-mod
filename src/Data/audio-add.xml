@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<Root>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_1</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 03 - The Lush Planet</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_2</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 04 - The Lush Planet - Ambient Early</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_3</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 05 - Beauty in the Eye of the Orbiter</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_4</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 06 - Destroyer</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_5</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 07 - The Lush Planet - Ambient Middle</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_6</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 08 - Lux Perpetua</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_7</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 09 - Benedicite</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_8</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 10 - The Lush Planet - Ambient Late</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_9</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 11 - Our New World</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_10</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 12 - The Fungal Planet</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_11</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 13 - The Fungal Planet - Ambient Early</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_12</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 14 - Acclimation</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_13</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 15 - Promethean</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_14</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 16 - The Fungal Planet - Ambient Middle</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_15</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 17 - Xenomalleum</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_16</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 18 - The Fungal Planet - Ambient Late</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_17</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 19 - A New Beginning</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_18</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 20 - The Arid Planet</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_19</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 21 - The Arid Planet - Ambient Early</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_20</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 22 - Solar Collector</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_21</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 23 - Dogmatic Engineering</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_22</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 24 - The Arid Planet - Ambient Middle</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_23</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 25 - Xeno Titan</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_24</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 26 - The Signal</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_25</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 27 - The Arid Planet - Ambient Late</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_26</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 28 - Deep Memory</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_27</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 29 - Planetfall</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_28</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 30 - Planetfall - Ambient Early 1</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_29</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 31 - Alien Shores</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_30</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 32 - Sky Mine</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_31</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 33 - Planetfall - Ambient Early 2</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_32</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 34 - Earth's Ambassadors</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_33</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 35 - O Muse</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_34</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 36 - Planetfall - Ambient Middle</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_35</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 37 - Deep Space</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_36</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 38 - Planetfall - Ambient Late 1</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_37</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 39 - Xenomancer</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_38</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 40 - Planetfall - Ambient Late 2</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_39</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 41 - Solid State Citizen</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_40</zType>
+        <zAsset>modassets/Beyond Earth Soundtrack - 42 - The Future of Mankind</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_41</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 03 - The Abyss</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_42</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 04 - The Abyss (Ambient Early)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_43</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 05 - Upon The Expanse</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_44</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 06 - Ebb and Flow</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_45</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 07 - The Abyss (Ambient Middle)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_46</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 08 - Dive</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_47</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 09 - Tidehunter</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_48</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 10 - The Abyss (Ambient Late)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_49</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 11 - Neptune's Glory</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_50</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 12 - The Old World</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_51</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 13 - The Old World (Ambient Early)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_52</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 14 - Holocene</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_53</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 15 - Terra Incognita</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_54</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 16 - The Old World (Ambient Middle)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_55</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 17 - Ice and Conquest</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_56</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 18 - The Dendrite Frontier</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_57</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 19 - The Old World (Ambient Late)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_58</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 20 - Fractal Aquilon</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_59</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 21 - The Young World</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_60</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 22 - The Young World (Ambient Early)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_61</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 23 - Immortal</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_62</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 24 - Mobius Horn</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_63</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 25 - The Young World (Ambient Middle</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_64</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 26 - Lahar</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_65</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 27 - Primordial Majesty</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_66</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 28 - The Young World (Ambient Late)</zAsset>
+        <zClassicAsset />
+    </Entry>
+    <Entry>
+        <zType>AUDIO_CUSTOM_SOUNDTRACK_67</zType>
+        <zAsset>modassets/Rising Tide Soundtrack - 29 - Hybrid Champion</zAsset>
+        <zClassicAsset />
+    </Entry>
+</Root>
